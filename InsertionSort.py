@@ -6,6 +6,7 @@ Date modified: 24/6/2018
 Preconditions: Array of real numbers
 Description: Loop starts with the 2nd element of the array. At each iteration of loop, the number would be inserted into the right position to sort in ascending order.
 Complexity: O(n), best case when list is already in ascending order. O(n^2), worst case when list is in descending order.
+Stability: Stable
 Space: O(n)
 Space aux: In-place
 """

@@ -5,6 +5,7 @@ Author: Matthew Yeow
 Date modified: 24/6/2018
 Preconditions: Array of real numbers
 Description: At each iteration of loop, the minimum value would be found and swap into the right position to sort in ascending order. Sorted values on the left are not iterated again.
+Stability: Unstable
 Complexity: O(n^2)
 Space: O(n)
 Space aux: In-place
